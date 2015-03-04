@@ -1,4 +1,4 @@
 {
-    "main": "visualcaptcha.angular",
+    "main": "angular-file-upload-all",
     "files": [ "angular-file-upload-shim.min.js","angular-file-upload.min.js"]
 }
